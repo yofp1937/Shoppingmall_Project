@@ -1,0 +1,13 @@
+.header {
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
+.search_div {
+    padding: 18px;
+}
+
+.search_input {
+    height: 80%;
+}
